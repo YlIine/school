@@ -1,0 +1,7 @@
+body{background-color: coral;
+color: yellow;}
+a{ color: indigo;}
+h2, h3 {text-align: center;}
+hr{border-color: grey;}
+hr.red{border: 10px solid red; width: 30%;}
+p.p-1{text-align: right; color: blue; font-size: 21px; font-family: Comic Sans MS;}
